@@ -6,7 +6,7 @@
     "glob": "7.0.0",
     "markdownlint-cli": "0.31.0",
     "tldr-lint": "~0.0.7",
-    "husky": "0.11.3"
+    "husky": "0.14.3"
   },
   "scripts": {
     "precommit": "npm test",
